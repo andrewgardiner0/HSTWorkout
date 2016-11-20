@@ -65,7 +65,7 @@
                 android:id="@+id/ex1.3"
                 android:padding="10dip"/>
             <EditText
-                android:id="@+id/decrementval"
+                android:id="@+id/decrementval1"
                 android:backgroundTint="@color/colorAccent"
                 android:background="@android:color/holo_green_dark" />
 
@@ -91,6 +91,10 @@
 
                 android:id="@+id/ex2.3"
                 android:padding="10dip"/>
+            <EditText
+                android:id="@+id/decrementval2"
+                android:backgroundTint="@color/colorAccent"
+                android:background="@android:color/holo_green_dark" />
 
 
         </TableRow>
@@ -112,6 +116,10 @@
 
                 android:id="@+id/ex3.3"
                 android:padding="10dip"/>
+            <EditText
+                android:id="@+id/decrementval3"
+                android:backgroundTint="@color/colorAccent"
+                android:background="@android:color/holo_green_dark" />
 
 
 
@@ -134,6 +142,10 @@
 
                 android:id="@+id/ex4.3"
                 android:padding="10dip"/>
+            <EditText
+                android:id="@+id/decrementval4"
+                android:backgroundTint="@color/colorAccent"
+                android:background="@android:color/holo_green_dark" />
 
         </TableRow>
         <TableRow>
@@ -154,6 +166,10 @@
 
                 android:id="@+id/ex5.3"
                 android:padding="10dip"/>
+            <EditText
+                android:id="@+id/decrementval5"
+                android:backgroundTint="@color/colorAccent"
+                android:background="@android:color/holo_green_dark" />
 
 
         </TableRow>
@@ -177,6 +193,10 @@
 
                 android:id="@+id/ex6.3"
                 android:padding="10dip"/>
+            <EditText
+                android:id="@+id/decrementval6"
+                android:backgroundTint="@color/colorAccent"
+                android:background="@android:color/holo_green_dark" />
 
 
         </TableRow>
@@ -200,6 +220,10 @@
 
                 android:id="@+id/ex7.3"
                 android:padding="10dip"/>
+            <EditText
+                android:id="@+id/decrementval7"
+                android:backgroundTint="@color/colorAccent"
+                android:background="@android:color/holo_green_dark" />
 
         </TableRow>
         <TableRow>
@@ -220,6 +244,10 @@
 
                 android:id="@+id/ex8.3"
                 android:padding="10dip"/>
+            <EditText
+                android:id="@+id/decrementval8"
+                android:backgroundTint="@color/colorAccent"
+                android:background="@android:color/holo_green_dark" />
 
 
         </TableRow>
@@ -247,6 +275,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btnNext" />
+            <EditText
+                android:id="@+id/decrementval9"
+                android:backgroundTint="@color/colorAccent"
+                android:background="@android:color/holo_green_dark" />
 
 
         </TableRow>
